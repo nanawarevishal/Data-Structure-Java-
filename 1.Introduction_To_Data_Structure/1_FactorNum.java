@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 class Factor{
-
+    
     static ArrayList<Integer> factorNumBruteForce(int num){
 
         ArrayList<Integer>ls = new ArrayList<>();
@@ -14,7 +14,7 @@ class Factor{
                 ls.add(i);
             }
         }
-       
+
         return ls;
     }
 
