@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "1.Introduction_To_Data_Structure"
+        "1.Introduction_To_Data_Structure",
+        "2.Array"
     ]
 }
