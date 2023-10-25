@@ -28,7 +28,7 @@ class GoodPairCount{
                 cnt++;
             }
 
-            if (ch[i]==ch2){
+            else if (ch[i]==ch2){
                 count+=cnt;
             }
         }
