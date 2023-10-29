@@ -73,7 +73,7 @@ class MinimumSubArray{
 
     public static void main(String[] args) {
         
-        int nums[] = {1,2,3,1,3,4,6,4,6,3};
+        int nums[] = {6,2,3,3,1,1,6,3,2,6};
 
         System.out.println(minimumSubArrayWithMinMax(nums));
     }
