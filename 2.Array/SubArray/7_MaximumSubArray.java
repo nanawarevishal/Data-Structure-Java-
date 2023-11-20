@@ -44,7 +44,7 @@ class SubMaxSum{
 
     public static void main(String[] args) {
         
-        int []nums = {-2,1,-3,4,-1,2,1,-5,5};
+        int []nums = {-21,-34,-121,-54};
 
         System.out.println(maxSumSubArrayOptimal(nums));
     }
