@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "1.Introduction_To_Data_Structure",
-        "2.Array"
+        "2.Array",
+        "3.Recursion",
+        "4.SearchingAlgorithm"
     ]
 }
