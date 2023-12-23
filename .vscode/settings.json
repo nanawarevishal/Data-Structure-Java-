@@ -5,6 +5,8 @@
         "3.Recursion",
         "4.SearchingAlgorithm",
         "5.SortingAlgorithms",
-        "6.LinkedList"
+        "6.LinkedList",
+        "7.Stack",
+        "8.Queue"
     ]
 }
